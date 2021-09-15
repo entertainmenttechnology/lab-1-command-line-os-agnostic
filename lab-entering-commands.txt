@@ -15,6 +15,17 @@ Follow the instructions line-by-line.
 $ ls<ENTER>
 
 Copy and paste the output of ls below.
+
+Applications                                    GameMakerStudio2
+Bloop                                           Library
+Coding Practice                                 Media-Computation
+CodyLawrence2014@gmail.com Creative Cloud Files Movies
+Creative Cloud Files                            Music
+Desktop                                         New Unity Project
+Documents                                       Pictures
+Downloads                                       Practice
+Exampls                                         Public
+GD201 Group project                             mediacomputation
 ----------
 Code  Desktop  Documents  Downloads  Movies  Music  Pictures  textfile.txt
 
@@ -31,12 +42,16 @@ Desktop/    Documents/  Downloads/
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
+
+Desktop/   Documents/ Downloads/ 
 ----------
-rdrgeerwtger yg erwy brg
+
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
+
+No such file or directory
 ----------
 
 
@@ -57,6 +72,9 @@ Copy and paste the first *two lines* of output below.
 $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
+
+.                       Adobe                   Screencast-O-Matic
+..                      Arduino                 Unreal Projects
 ----------
 
 
@@ -67,6 +85,8 @@ Copy and paste the first *two lines* of output below.
 <UP><ENTER>
 
 What command was repeated?
+
+"ls -a Documents"
 ----------
 
 
@@ -77,6 +97,9 @@ What command was repeated?
 <UP><UP><UP><DOWN><ENTER>
 
 What command was repeated?
+
+".                       Adobe                   Screencast-O-Matic
+..                      Arduino                 Unreal Projects"
 ----------
 
 
@@ -87,6 +110,8 @@ What command was repeated?
 $ ls /b<TAB><ENTER>
 
 What is the result of pressing tab?
+
+/bin/
 ----------
 
 
@@ -97,36 +122,45 @@ What is the result of pressing tab?
 $ ls doesnotexist
 
 Copy and paste the output below.
+
+No such file or directory
 ----------
 
 
 
 ==========
 9.  What key do I press to go to the previous command?
+
+<UP><UP>
 ----------
 
 
 
 ==========
 10.  Name two flags that we used in this exercise.
+"-a" and "D"
 ----------
 
 
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
+<TAB>
 ----------
 
 
 
 ==========
 12.  What was the main command that we used throughout this exercise?
+
+"ls" 
 ----------
 
 
 
 ==========
 13.  Name one argument that we passed to the command.
+"documents"
 ----------
 
 
@@ -137,6 +171,8 @@ Copy and paste the output below.
 $ foo<ENTER>
 
 Copy and paste the output below.
+
+command not found
 ----------
 
 
@@ -147,6 +183,8 @@ Copy and paste the output below.
 <UP><ENTER>
 
 Copy and paste the output below.
+
+command not found
 ----------
 
 
@@ -157,4 +195,6 @@ Copy and paste the output below.
 $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
+
+command is "ls" flag is "-a" argument is "Desktop" and prompt is <ENTER>
 ----------
